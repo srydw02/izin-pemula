@@ -1,0 +1,3 @@
+Saya juga punya perusahaan snack BTW
+Jika kalian berminat bisa ketik tulisan ini ke web browser kalian,
+"django snack" nanti akan muncul lokasi perusahaan kita dan websitenya
